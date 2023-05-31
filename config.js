@@ -10,7 +10,7 @@ global.namabot = 'BBOT-MD'
 global.namaowner = 'Bimatio'
 
 //—————「 Setting Owner 」—————//
-global.owner = '6288225464285'
+global.owner = 'Bimatio'
 global.nomerowner = ["6288225464285"]
 global.premium = ['6288225464285']
 
@@ -42,8 +42,8 @@ global.limitawal = {
 }
 
 //—————「 Set Image 」—————//
-global.imageurl = 'https://telegra.ph/file/54bdfdfaeadbda3984b82.jpg'
-global.thumb = fs.readFileSync('./media/thumb.jpg')
+global.imageurl = './media/bbot.jpg'
+global.thumb = fs.readFileSync('./media/bbot.jpg')
 
 //—————「 Batas Akhir 」—————//
 let file = require.resolve(__filename)

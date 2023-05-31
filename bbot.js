@@ -2541,7 +2541,7 @@ caption += _0x582aa0(0x116) + data[_0x582aa0(0x10d)][_0x582aa0(0x119)] + '\x0a',
 			case 'qc': {
             const { quote } = require('./lib/quote.js')
             if (!q) return ('Masukan Text')
-            let ppnyauser = await await conn.profilePictureUrl(m.sender, 'image').catch(_=> 'https://telegra.ph/file/6880771a42bad09dd6087.jpg')
+            let ppnyauser = await await conn.profilePictureUrl(m.sender, 'image').catch(_=> './media/bbot.jpg')
             const rest = await quote(q, pushname, ppnyauser)
             newReply(mess.wait)
             conn.sendImageAsSticker(m.chat, rest.result, m, { packname: `${global.packname}`, author: `${global.author}`})
@@ -2551,7 +2551,7 @@ caption += _0x582aa0(0x116) + data[_0x582aa0(0x10d)][_0x582aa0(0x119)] + '\x0a',
             case 'qcimg': {
             const { quote } = require('./lib/quote.js')
             if (!q) return ('Masukan Text')
-            let ppnyauser = await await conn.profilePictureUrl(m.sender, 'image').catch(_=> 'https://telegra.ph/file/6880771a42bad09dd6087.jpg')
+            let ppnyauser = await await conn.profilePictureUrl(m.sender, 'image').catch(_=> './media/bbot.jpg')
             const rest = await quote(q, pushname, ppnyauser)
             newReply(mess.wait)
             conn.sendMessage(m.chat, { image: { url: rest.result }, caption: `Done?`}, {quoted: m})
@@ -3936,7 +3936,7 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "./media/bbot.jpg",
+        thumbnailUrl: "media/bbot.jpg",
         sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
@@ -4440,7 +4440,7 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "./media/bbot.jpg",
+        thumbnailUrl: "media/bbot.jpg",
         sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
@@ -4507,7 +4507,7 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "./media/bbot.jpg",
+        thumbnailUrl: "media/bbot.jpg",
         sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
@@ -4567,7 +4567,7 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "./media/bbot.jpg",
+        thumbnailUrl: "media/bbot.jpg",
         sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
@@ -4614,7 +4614,7 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "./media/bbot.jpg",
+        thumbnailUrl: "media/bbot.jpg",
         sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
@@ -4668,7 +4668,7 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "./media/bbot.jpg",
+        thumbnailUrl: "media/bbot.jpg",
         sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
@@ -4736,7 +4736,7 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "./media/bbot.jpg",
+        thumbnailUrl: "media/bbot.jpg",
         sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
@@ -4795,7 +4795,7 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "./media/bbot.jpg",
+        thumbnailUrl: "media/bbot.jpg",
         sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
@@ -4840,7 +4840,7 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "./media/bbot.jpg",
+        thumbnailUrl: "media/bbot.jpg",
         sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
@@ -4900,7 +4900,7 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "./media/bbot.jpg",
+        thumbnailUrl: "media/bbot.jpg",
         sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
@@ -4946,7 +4946,7 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "./media/bbot.jpg",
+        thumbnailUrl: "media/bbot.jpg",
         sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
@@ -5000,7 +5000,7 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "./media/bbot.jpg",
+        thumbnailUrl: "media/bbot.jpg",
         sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
@@ -5045,7 +5045,7 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "./media/bbot.jpg",
+        thumbnailUrl: "media/bbot.jpg",
         sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
@@ -5092,7 +5092,7 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "./media/bbot.jpg",
+        thumbnailUrl: "media/bbot.jpg",
         sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
@@ -5139,7 +5139,7 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "./media/bbot.jpg",
+        thumbnailUrl: "media/bbot.jpg",
         sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
@@ -5206,7 +5206,7 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "./media/bbot.jpg",
+        thumbnailUrl: "media/bbot.jpg",
         sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
@@ -5267,7 +5267,7 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "./media/bbot.jpg",
+        thumbnailUrl: "media/bbot.jpg",
         sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
@@ -5336,7 +5336,7 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "./media/bbot.jpg",
+        thumbnailUrl: "media/bbot.jpg",
         sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
@@ -5383,7 +5383,7 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "./media/bbot.jpg",
+        thumbnailUrl: "media/bbot.jpg",
         sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
@@ -5425,7 +5425,7 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "./media/bbot.jpg",
+        thumbnailUrl: "media/bbot.jpg",
         sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
@@ -5483,7 +5483,7 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "./media/bbot.jpg",
+        thumbnailUrl: "media/bbot.jpg",
         sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
@@ -5564,7 +5564,7 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "./media/bbot.jpg",
+        thumbnailUrl: "media/bbot.jpg",
         sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
@@ -5613,7 +5613,7 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "./media/bbot.jpg",
+        thumbnailUrl: "media/bbot.jpg",
         sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
@@ -5655,7 +5655,7 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "./media/bbot.jpg",
+        thumbnailUrl: "media/bbot.jpg",
         sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
@@ -5695,7 +5695,7 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "./media/bbot.jpg",
+        thumbnailUrl: "media/bbot.jpg",
         sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
