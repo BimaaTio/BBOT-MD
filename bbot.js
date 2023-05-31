@@ -1069,170 +1069,6 @@ conn[_0x541a0c(0x20d) + 'ge'](m[_0x541a0c(0x206)], {
 }, { 'quoted': m });
         }
         break
-        
-case 'tqto': {
-  function _0x42ca() {
-    const _0x1d055c = [
-        'sendMessag',
-        '5076b7da7d',
-        'https://ch',
-        'namaowner',
-        'kiXD\x20(\x20SEP',
-        '\x20(\x20TEAMS\x20)',
-        'hor\x20)*\x0a\x20*•',
-        'BEBAN\x20)*\x0a\x20',
-        'SAW*\x0a\x20*•\x20M',
-        '\x20Rullxzz\x20(',
-        '3ce9e.jpg',
-        'END\x20)*\x0a\x20*•',
-        'nTzy\x20(\x20Aut',
-        '\x20Donatur*\x0a',
-        '3TfHkHn',
-        '1374590PGwree',
-        '\x20ALLAH\x20SWT',
-        '8472995bZCzAb',
-        '*\x0a\x20*•\x20LoL-',
-        '*\x0a\x20*•\x20Luck',
-        'ilersBotz\x20',
-        'Human\x20(\x20Re',
-        '1814504dFvqkP',
-        'at.whatsap',
-        '*•\x20YogzzDe',
-        'bx2raQ10',
-        '\x0a\x20*•\x20Adria',
-        'H\x20MODS\x20(\x20S',
-        '\x0a\x20*•\x20XTRAM',
-        '\x20KASIH\x20KEP',
-        '8mGwvlj',
-        'Subscriber',
-        'st\x20APIs\x20)*',
-        'D\x20)*\x0a\x20*•\x20W',
-        '*\x0a\x20*•\x20NABI',
-        '*\x0a\x20*•\x20Para',
-        '15749451kfHbQR',
-        'Bimatio',
-        '1874464EtxEYh',
-        'p.com/DRCr',
-        '\x20SEPUH¹\x20)*',
-        '1131134loMZxq',
-        'DanuDev\x20(\x20',
-        '\x0a\x20*•\x20Para\x20',
-        'UH\x20)*\x0a\x20*•\x20',
-        'EPUH²\x20)*\x0a\x20',
-        'vX\x20(\x20FRIEN',
-        'https://te',
-        '*•\x20Reii\x20Co',
-        '\x0a\x20_*TERIMA',
-        '*\x0a\x20*•\x20KiZa',
-        'D\x20)*\x0a\x20*•\x20K',
-        'PjaOXcZ9tX',
-        'legra.ph/f',
-        'Y\x20PARENTS*',
-        '6625614UrYvTF',
-        'ADA*_\x0a\x0a\x20*•',
-        'ile/8633bf',
-        '\x20MUHAMMAD\x20',
-        'de\x20(\x20FRIEN',
-        'yCat\x20(\x20FRI',
-        'chat',
-        '(\x20BEBAN¹\x20)'
-    ];
-    _0x42ca = function () {
-        return _0x1d055c;
-    };
-    return _0x42ca();
-}
-const _0x4a0085 = _0x1cfe;
-(function (_0x4b5713, _0x2f3dd6) {
-    const _0x411395 = _0x1cfe, _0x46b68f = _0x4b5713();
-    while (!![]) {
-        try {
-            const _0x383b2c = parseInt(_0x411395(0xe7)) / (-0x101a * -0x1 + -0x2176 + 0x115d) + parseInt(_0x411395(0xfa)) / (-0x1 * -0x676 + 0x407 * 0x1 + 0x1 * -0xa7b) * (parseInt(_0x411395(0xdf)) / (-0x1a6c + 0x1a * -0x13 + 0x1c5d)) + -parseInt(_0x411395(0xf7)) / (0x1cca + 0x21 * 0x11b + -0x4141) + parseInt(_0x411395(0xe2)) / (-0x212b + 0x2443 + -0x313) + -parseInt(_0x411395(0xc9)) / (0x47e * 0x1 + 0x15 * 0x147 + 0x1f4b * -0x1) + parseInt(_0x411395(0xe0)) / (-0x1273 + 0x2 * -0x63a + 0x1eee) + parseInt(_0x411395(0xef)) / (-0x145c * 0x1 + 0x277 * 0x7 + -0x1 * -0x323) * (-parseInt(_0x411395(0xf5)) / (-0x7 * 0x182 + 0x2b * -0x7f + 0x7fb * 0x4));
-            if (_0x383b2c === _0x2f3dd6)
-                break;
-            else
-                _0x46b68f['push'](_0x46b68f['shift']());
-        } catch (_0x4686d7) {
-            _0x46b68f['push'](_0x46b68f['shift']());
-        }
-    }
-}(_0x42ca, -0x7 * -0x35342 + -0x259c * -0x60 + -0x16e956));
-function _0x1cfe(_0x392002, _0x4d46e1) {
-    const _0x413bc6 = _0x42ca();
-    return _0x1cfe = function (_0x59e176, _0x5d4ec0) {
-        _0x59e176 = _0x59e176 - (-0x2f * 0x89 + 0x1 * 0x9e1 + 0x100c);
-        let _0x3de859 = _0x413bc6[_0x59e176];
-        return _0x3de859;
-    }, _0x1cfe(_0x392002, _0x4d46e1);
-}
-let tqtonya = _0x4a0085(0x102) + _0x4a0085(0xee) + _0x4a0085(0xca) + _0x4a0085(0xe1) + _0x4a0085(0xf3) + _0x4a0085(0xcc) + _0x4a0085(0xd9) + _0x4a0085(0xc8) + _0x4a0085(0xeb) + _0x4a0085(0xdd) + _0x4a0085(0xd7) + '\x20' + global[_0x4a0085(0xd4)] + (_0x4a0085(0xe3) + _0x4a0085(0xe6) + _0x4a0085(0xf1) + _0x4a0085(0xed) + _0x4a0085(0xd6) + _0x4a0085(0x103) + _0x4a0085(0xd5) + _0x4a0085(0xfd) + _0x4a0085(0xfb) + _0x4a0085(0xd8) + _0x4a0085(0x101) + _0x4a0085(0xcd) + _0x4a0085(0xf2) + _0x4a0085(0xec) + _0x4a0085(0xfe) + _0x4a0085(0xe9) + _0x4a0085(0xff) + _0x4a0085(0x104) + _0x4a0085(0xe5) + _0x4a0085(0xd0) + _0x4a0085(0xe4) + _0x4a0085(0xce) + _0x4a0085(0xdc) + _0x4a0085(0xda) + _0x4a0085(0xf9) + _0x4a0085(0xfc) + _0x4a0085(0xf0) + _0x4a0085(0xf4) + _0x4a0085(0xde) + '\x20');
-conn[_0x4a0085(0xd1) + 'e'](m[_0x4a0085(0xcf)], {
-    'text': tqtonya,
-    'contextInfo': {
-        'externalAdReply': {
-            'showAdAttribution': !![],
-            'title': ucapanWaktu + '\x20' + pushname,
-            'body': _0x4a0085(0xf6),
-            'thumbnailUrl': _0x4a0085(0x100) + _0x4a0085(0xc7) + _0x4a0085(0xcb) + _0x4a0085(0xd2) + _0x4a0085(0xdb),
-            'sourceUrl': _0x4a0085(0xd3) + _0x4a0085(0xe8) + _0x4a0085(0xf8) + _0x4a0085(0xc6) + _0x4a0085(0xea),
-            'mediaType': 0x1,
-            'renderLargerThumbnail': !![]
-        }
-    }
-});
-}
-break
-            case 'sc':
-            case 'script':
-               var _0x339ca7 = _0x106b;
-function _0x2d25() {
-    var _0x246dcf = [
-        '136oBZPhF',
-        '57600FUUtJh',
-        'outube.com',
-        '\x20https://y',
-        '82672tqvHcO',
-        '640732eHMFoK',
-        'list=PLRmL',
-        '3piugfV',
-        'ptlwtOy2q',
-        'RCoejWJsau',
-        '/playlist?',
-        '328680HbOibq',
-        '1988172oSJgRO',
-        'HXGmkKERWn',
-        'Script\x20Bot',
-        '101633xAlDkM',
-        '777978rZolIv'
-    ];
-    _0x2d25 = function () {
-        return _0x246dcf;
-    };
-    return _0x2d25();
-}
-function _0x106b(_0x16ea88, _0x90ab9d) {
-    var _0x17423b = _0x2d25();
-    return _0x106b = function (_0x4f9c47, _0x371388) {
-        _0x4f9c47 = _0x4f9c47 - (-0x10de + -0x900 + 0x1b8e);
-        var _0x36a78e = _0x17423b[_0x4f9c47];
-        return _0x36a78e;
-    }, _0x106b(_0x16ea88, _0x90ab9d);
-}
-(function (_0x17a89e, _0x137a2e) {
-    var _0x3744d4 = _0x106b, _0x314698 = _0x17a89e();
-    while (!![]) {
-        try {
-            var _0x9bf7d4 = -parseInt(_0x3744d4(0x1b2)) / (0xa68 + 0x2347 + -0x2dae) + -parseInt(_0x3744d4(0x1c0)) / (0x1db * -0xb + -0x32 * -0xbf + -0x10e3) + parseInt(_0x3744d4(0x1b5)) / (-0x53 * 0x47 + 0x14c2 + 0x246) * (-parseInt(_0x3744d4(0x1b3)) / (0x1ff * 0x2 + 0xb65 + 0xf5f * -0x1)) + parseInt(_0x3744d4(0x1b9)) / (0x1 * -0x2449 + -0x1bd3 * -0x1 + -0xa7 * -0xd) + -parseInt(_0x3744d4(0x1be)) / (-0x1 * 0xf51 + 0x761 + -0x2 * -0x3fb) + -parseInt(_0x3744d4(0x1bd)) / (-0x5b4 + 0x78d * 0x3 + -0x10ec) * (-parseInt(_0x3744d4(0x1bf)) / (-0x66 * 0x61 + 0x3 * 0xc1f + 0x251)) + parseInt(_0x3744d4(0x1ba)) / (-0x7 * 0x36c + -0x1816 + 0x3013);
-            if (_0x9bf7d4 === _0x137a2e)
-                break;
-            else
-                _0x314698['push'](_0x314698['shift']());
-        } catch (_0x5ec7b9) {
-            _0x314698['push'](_0x314698['shift']());
-        }
-    }
-}(_0x2d25, 0x233 * -0x159 + -0x1 * 0x21bd7 + -0x15 * -0x566b), newReply(_0x339ca7(0x1bc) + '\x20' + namabot + (_0x339ca7(0x1b1) + _0x339ca7(0x1b0) + _0x339ca7(0x1b8) + _0x339ca7(0x1b4) + _0x339ca7(0x1b7) + _0x339ca7(0x1bb) + _0x339ca7(0x1b6))));
-            break
         // Group Fitur
             case 'kick': {
                 if (!m.isGroup) return newReply(mess.group)
@@ -4050,10 +3886,9 @@ Lihat list Pesan Dengan ${prefix}listmsg`)
             
             case 'menu':
 case 'help': {
-    let anu =`Hello ${pushname}\nI Am ${namabot} a whatsapp bot that can make it easier for you to solve problems with the internet quickly.
+    let anu =`Halo ${pushname}\nSaya ${namabot} untuk membantu anda memudahkan.
 
   ☍ *Mode:* ${conn.public ? 'Public-Mode 👥' : 'Self-Mode 👤'}
-  ☍ *Bailyes:* -
   ☍ *Runtime:* ${runtime(process.uptime())}
   ☍ *Total User:* ${Object.keys(global.db.data.users).length}
   ☍ *Total Premium:* ${prem.length}
@@ -4101,8 +3936,8 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "https://telegra.ph/file/0edaccd75d5b8290fd8c1.jpg",
-        sourceUrl: "https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10",
+        thumbnailUrl: "./media/bbot.jpg",
+        sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
       }
@@ -4605,8 +4440,8 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "https://telegra.ph/file/3ffbaa07b3de923a3e0be.jpg",
-        sourceUrl: "https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10",
+        thumbnailUrl: "./media/bbot.jpg",
+        sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
       }
@@ -4672,8 +4507,8 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "https://telegra.ph/file/c4d38f6395539ad0b8eaf.jpg",
-        sourceUrl: "https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10",
+        thumbnailUrl: "./media/bbot.jpg",
+        sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
       }
@@ -4732,8 +4567,8 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "https://telegra.ph/file/e638d77abba97e030ccd0.jpg",
-        sourceUrl: "https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10",
+        thumbnailUrl: "./media/bbot.jpg",
+        sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
       }
@@ -4779,8 +4614,8 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "https://telegra.ph/file/4e067170ca348bb3d867f.jpg",
-        sourceUrl: "https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10",
+        thumbnailUrl: "./media/bbot.jpg",
+        sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
       }
@@ -4833,8 +4668,8 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "https://telegra.ph/file/ea91c7b1794dccba12a04.jpg",
-        sourceUrl: "https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10",
+        thumbnailUrl: "./media/bbot.jpg",
+        sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
       }
@@ -4901,8 +4736,8 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "https://telegra.ph/file/ddf3e3e7d5ca356efa4c6.jpg",
-        sourceUrl: "https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10",
+        thumbnailUrl: "./media/bbot.jpg",
+        sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
       }
@@ -4960,8 +4795,8 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "https://telegra.ph/file/b4b471c671afb83ad93d3.jpg",
-        sourceUrl: "https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10",
+        thumbnailUrl: "./media/bbot.jpg",
+        sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
       }
@@ -5005,8 +4840,8 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "https://telegra.ph/file/590ed82fb63f479cbefc1.jpg",
-        sourceUrl: "https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10",
+        thumbnailUrl: "./media/bbot.jpg",
+        sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
       }
@@ -5065,8 +4900,8 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "https://telegra.ph/file/1b6613788c725da32974a.jpg",
-        sourceUrl: "https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10",
+        thumbnailUrl: "./media/bbot.jpg",
+        sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
       }
@@ -5111,8 +4946,8 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "https://telegra.ph/file/ccff193e712f97b79a5a1.jpg",
-        sourceUrl: "https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10",
+        thumbnailUrl: "./media/bbot.jpg",
+        sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
       }
@@ -5165,8 +5000,8 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "https://telegra.ph/file/9146deb782a0720df25f9.jpg",
-        sourceUrl: "https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10",
+        thumbnailUrl: "./media/bbot.jpg",
+        sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
       }
@@ -5210,8 +5045,8 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "https://telegra.ph/file/29292f1e4e001d5e3cfc8.jpg",
-        sourceUrl: "https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10",
+        thumbnailUrl: "./media/bbot.jpg",
+        sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
       }
@@ -5257,8 +5092,8 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "https://telegra.ph/file/206fb0600830f84202a4d.jpg",
-        sourceUrl: "https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10",
+        thumbnailUrl: "./media/bbot.jpg",
+        sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
       }
@@ -5304,8 +5139,8 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "https://telegra.ph/file/be92067f2e530ba777085.jpg",
-        sourceUrl: "https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10",
+        thumbnailUrl: "./media/bbot.jpg",
+        sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
       }
@@ -5371,8 +5206,8 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "https://telegra.ph/file/6f9a54bfa7ecdc4690620.jpg",
-        sourceUrl: "https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10",
+        thumbnailUrl: "./media/bbot.jpg",
+        sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
       }
@@ -5432,8 +5267,8 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "https://telegra.ph/file/2220edaed19c0a9234dba.jpg",
-        sourceUrl: "https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10",
+        thumbnailUrl: "./media/bbot.jpg",
+        sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
       }
@@ -5501,8 +5336,8 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "https://telegra.ph/file/86b41f7e0ffc90dd99173.jpg",
-        sourceUrl: "https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10",
+        thumbnailUrl: "./media/bbot.jpg",
+        sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
       }
@@ -5548,8 +5383,8 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "https://telegra.ph/file/4d61756bf4e3ef5d054d3.jpg",
-        sourceUrl: "https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10",
+        thumbnailUrl: "./media/bbot.jpg",
+        sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
       }
@@ -5590,8 +5425,8 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "https://telegra.ph/file/4b1b13dd01e50bb007900.jpg",
-        sourceUrl: "https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10",
+        thumbnailUrl: "./media/bbot.jpg",
+        sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
       }
@@ -5648,8 +5483,8 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "https://telegra.ph/file/a87b8b992563ca99ace13.jpg",
-        sourceUrl: "https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10",
+        thumbnailUrl: "./media/bbot.jpg",
+        sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
       }
@@ -5729,8 +5564,8 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "https://telegra.ph/file/5a15e83c21c27be6efa66.jpg",
-        sourceUrl: "https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10",
+        thumbnailUrl: "./media/bbot.jpg",
+        sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
       }
@@ -5778,8 +5613,8 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "https://telegra.ph/file/aa672e74528fe50d8f03f.jpg",
-        sourceUrl: "https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10",
+        thumbnailUrl: "./media/bbot.jpg",
+        sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
       }
@@ -5820,8 +5655,8 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "https://telegra.ph/file/a7cd9a14a5006ff446154.jpg",
-        sourceUrl: "https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10",
+        thumbnailUrl: "./media/bbot.jpg",
+        sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
       }
@@ -5860,8 +5695,8 @@ conn.sendMessage(m.chat, {
         showAdAttribution: true, 
         title: `${ucapanWaktu} ${pushname}`,
         body: "Bimatio",
-        thumbnailUrl: "https://telegra.ph/file/6f9a54bfa7ecdc4690620.jpg",
-        sourceUrl: "https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10",
+        thumbnailUrl: "./media/bbot.jpg",
+        sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
         mediaType: 1,
         renderLargerThumbnail: true
       }

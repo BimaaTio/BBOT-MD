@@ -10,7 +10,7 @@ global.namabot = 'BBOT-MD'
 global.namaowner = 'Bimatio'
 
 //—————「 Setting Owner 」—————//
-global.owner = 'Bimatio'
+global.owner = '6288225464285'
 global.nomerowner = ["6288225464285"]
 global.premium = ['6288225464285']
 
