@@ -1741,6 +1741,7 @@ case 'help': {
 ${readmore}
 乂 *S U B -- M E N U*
     ☍ ${prefix}allmenu
+    ☍ ${prefix}server
     ☍ ${prefix}mainmenu
     ☍ ${prefix}downmenu
     ☍ ${prefix}convertmenu`
@@ -1841,6 +1842,42 @@ conn.sendMessage(m.chat, {
    })
 }
 break
+
+case 'server': {
+    let anu =`Halo ${pushname}\nSaya ${namabot} Sebuah BOT untuk mempermudah aktivitas anda disini.
+      ☍ *Mode:* ${conn.public ? 'Public-Mode 👥' : 'Self-Mode 👤'}
+      ☍ *Runtime:* ${runtime(process.uptime())}
+      ☍ *Total Banned:* ${ban.length}
+      
+    乂 *I N F O  U S E R*
+    
+       ☍ *Name:* ${pushname}
+       ☍ *Number:* ${m.sender.split('@')[0]}
+       ☍ *Status:* ${isCreator ? "Owner 🥶" : "User ⭐"}
+       ☍ *User:* ${isPremium ? 'Premium 🥶' : 'Gratisan ⭐'}
+       ☍ *Limit:* ${isCreator ? 'Unlimited 🥶' : `${db.data.users[m.sender].limit}⭐`}
+       
+    
+    乂 *S E R V E R  M E N U*
+    ◇ ‣ ${prefix}ip
+    ◇ ‣ ${prefix}player
+    ◇ ‣ ${prefix}vote`
+    conn.sendMessage(m.chat, {
+        text: anu,
+        contextInfo: {
+          externalAdReply: {
+            showAdAttribution: true, 
+            title: `${ucapanWaktu} ${pushname}`,
+            body: "Bimatio",
+            thumbnailUrl: "media/bbot.jpg",
+            sourceUrl: "https://chat.whatsapp.com/Gqcx4DduCXqDNjOlconUQT",
+            mediaType: 1,
+            renderLargerThumbnail: true
+          }
+        }
+       })
+    }
+    break
 
 case 'mainmenu': {
 let anu =`Halo ${pushname}\nSaya ${namabot} Sebuah BOT untuk mempermudah aktivitas anda disini.
